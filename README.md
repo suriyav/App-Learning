@@ -1,2 +1,2 @@
 # App-Learning
-1. HTML and CSS LAB in the Blog Folder.
+1. Blog Folder: That's HTML and CSS LAB.
